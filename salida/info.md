@@ -1,2 +1,2 @@
 # Informacion
-Esta capeta contiene el producto final de la aplicación
+Esta capeta contiene el producto final de la aplicación.
