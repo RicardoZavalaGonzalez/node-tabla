@@ -2,7 +2,7 @@ const { tablaMultiplicar } = require('./helpers/multiplicar');
 const argv = require('./config/yargs');
 console.clear();
 
-// Argumentos de la consola, version manual
+// Argumentos de la consola, version manual 
 /* const [, , arg3 = 'base=5'] = process.argv;
 const [, base = 5] = arg3.split('='); */
 
